@@ -1,4 +1,18 @@
 # S2A1
+-----------------------------------------------------------------------------
+Problem Statement
+
+1. Create a FAT ARROW function which will take parameters of string and number
+
+2. The function should be of type string.
+
+3. The function should return the value with the string and number then create
+function.html, add compiled file into this HTML like(function.js). The output should
+display as string and number message.
+
+4. DO remember to annotate with proper datatype the parameters and function
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.4.
 
