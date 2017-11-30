@@ -7,8 +7,22 @@
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <!-- <script type="text/javascript" src="S2A1.js"></script> -->
 </head>
 <body>
+  <form>
+    Enter Author Name: <br>
+    <input type="text" id="aname"><br><br>
+    Enter no. of books authored: <br>
+    <input type="number" id="anumber"><br><br>
+  </form>
+  <button onclick="authorCount(aname.value,anumber.value);">Submit</button>
+  <p id="para"></p>
   <app-root></app-root>
+  <!-- <script type="text/javascript">
+    // window.onload()=function(){
+      var authorCount = function (authName, count) { document.getElementById("para").innerHTML = "The author, " + authName.value + " has authored a total of " + count.value + " books."; };
+    // }
+    </script> -->
 </body>
 </html>
