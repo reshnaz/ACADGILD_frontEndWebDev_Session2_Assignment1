@@ -1,6 +1,6 @@
 # S2A1
 -----------------------------------------------------------------------------
-Note--->The main html to be previewed is index.html and the JavaScript file included in it is named as S2A1.js (compiled from S2A1.ts).
+Note--->The main html to be previewed is function.html and the JavaScript file included in it is named as function.js (compiled from S2A1.ts).
 
 Problem Statement
 
