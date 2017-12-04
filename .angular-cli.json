@@ -11,7 +11,7 @@
         "assets",
         "favicon.ico"
       ],
-      "index": "index.html",
+      "index": "function.html",
       "main": "main.ts",
       "polyfills": "polyfills.ts",
       "test": "test.ts",
@@ -22,7 +22,7 @@
         "styles.css"
       ],
       "scripts": [
-        "/home/reshma/Documents/AcadGild/frontEndWebDevelopment/Session-2_26Nov2017/Assignment-1/S2A1/dist/out-tsc/src/S2A1.js"
+        "/home/reshma/Documents/AcadGild/frontEndWebDevelopment/Session-2_26Nov2017/Assignment-1/S2A1/src/function.js"
       ],
       "environmentSource": "environments/environment.ts",
       "environments": {
